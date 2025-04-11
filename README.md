@@ -1,5 +1,16 @@
-# 💫 About Me:
-Current Role: Backend Developer at Friskly, working on innovative startup solutions.<br><br>Technologies:<br><br>Python: Building robust backend systems.<br><br>Docker: Containerizing applications for scalable deployments.<br><br>Google Cloud: Utilizing cloud databases for efficient data management.<br><br>Additional Skills: Experience in JavaScript and React.<br><br>Career Interests: Seeking opportunities in machine learning companies or Python backend development roles.
+# 💫 About Me
+
+**Current Role**  
+Backend Developer at **Friskly** – part of a dynamic startup.
+
+**Tech Stack**  
+- **Python:** Developing robust backend systems  
+- **Docker:** Containerizing applications for scalable deployments  
+- **Google Cloud:** Managing cloud-based databases  
+- **Additional Skills:** JavaScript and React
+
+**Career Interests**  
+Exploring opportunities in machine learning companies or Python backend development roles.
 
 
 ## 🌐 Socials:
